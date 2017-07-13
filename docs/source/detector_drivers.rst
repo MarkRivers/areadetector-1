@@ -8,7 +8,8 @@ Here is an example of linking accross repository documentation.
 
 
 
--  `Andor <http://areadetector.readthedocs.io/projects/adandor/en/latest/ >`_ 
--  `Andor3 <http://areadetector.readthedocs.io/projects/adandor3/en/latest/ >`_ 
+- `paramAttribute <http://cars.uchicago.edu/software/epics/areaDetectorDoxygenHTML/classparam_attribute.html>`_ 
+- `Andor <http://areadetector.readthedocs.io/projects/adandor/en/latest/ >`_ 
+- `Andor3 <http://areadetector.readthedocs.io/projects/adandor3/en/latest/ >`_ 
 
 
