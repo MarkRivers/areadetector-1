@@ -1,0 +1,6 @@
+[submodule "ADAndor"]
+	path = ADAndor
+	url = https://github.com/decarlof/ADAndor
+[submodule "ADAndor3"]
+	path = ADAndor3
+	url = https://github.com/decarlof/ADAndor3
