@@ -1,10 +1,10 @@
 Detector Drivers
 ================
 
-Here is an example of linking accross repository documentation.
-
+Here is an example of linking documentation across repositories.
 
 - `Andor <http://areadetector.readthedocs.io/projects/adandor/en/latest/>`_ 
 - `Andor3 <http://areadetector.readthedocs.io/projects/adandor3/en/latest/>`_ 
+- ...
 
 
