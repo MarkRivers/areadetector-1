@@ -16,6 +16,6 @@ Content
    source/overview
    source/architecture
    source/implementation_details
-   source/credits
    source/detector_drivers
+   source/credits
 

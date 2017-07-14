@@ -7,11 +7,11 @@ The areaDetector module depends heavily on asyn. It is the software that is used
 
    implementation_details/asynPortDriver
    implementation_details/NDArray
-   implementation_details/NDArrayPool.rst
-   implementation_details/NDAttribute.rst
-   implementation_details/NDAttributeList.rst
-   implementation_details/PVAttribute.rst
-   implementation_details/paramAttribute.rst
-   implementation_details/functAttribute.rst
-   implementation_details/asynNDArrayDriver.rst 
+   implementation_details/NDArrayPool
+   implementation_details/NDAttribute
+   implementation_details/NDAttributeList
+   implementation_details/PVAttribute
+   implementation_details/paramAttribute
+   implementation_details/functAttribute
+   implementation_details/asynNDArrayDriver 
 
